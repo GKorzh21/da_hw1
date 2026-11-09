@@ -1,0 +1,4 @@
+model,cv_f1,std_f1,params
+logreg,0.711577455686283,0.04071291526017468,"{'model__estimator__C': 10, 'model__estimator__class_weight': None}"
+tree,0.7377372935050419,0.012585994873220789,"{'max_depth': 10, 'min_samples_leaf': 1}"
+forest,0.802212924825407,0.024559487539197938,"{'max_depth': None, 'max_features': 0.7, 'min_samples_leaf': 1}"
